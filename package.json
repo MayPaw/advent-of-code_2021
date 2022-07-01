@@ -1,0 +1,7 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Solution to Advent of Code year 2021 edition",
+  "type":"module",
+  "author": "Maja Pawlina"
+}
